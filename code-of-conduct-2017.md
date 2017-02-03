@@ -10,7 +10,7 @@ Participants pledge to refrain from all forms of harassment. Harassment includes
 
 Participants asked to stop any harassing or violent behavior are expected to comply immediately.
 
-Participants violating these rules may be asked to temporarily leave the conversation space with the consensus of the organizers. If any participant or organizer believes that more serious measures are required, the {organizers/code of conduct group} will meet to reach consensus on a course of action.
+Participants violating these rules may be asked to temporarily leave the conversation space with the consensus of the organizers. If any participant or organizer believes that more serious measures are required, the organizers will meet to reach consensus on a course of action.
 
 All such actions will be documented and publicly reported by the organizers. Such reports may omit identifying information provided an explanation for this choice is provided.
 
