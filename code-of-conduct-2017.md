@@ -22,5 +22,5 @@ To report a violation of this code, participants should contact:
 * Erika Owens (erika@mozillafoundation.org)
 * Brittany Mayes (brmayes16@gmail.com)
 
-Participants may also submit an [incident report](https://docs.google.com/forms/d/11vdPhmox11rxO01IagGMqtIDImHoTLuI8hNDxLGoo34/viewform) online. Incident reports may be submitted anonymously. *
+Participants may also submit an [incident report](https://docs.google.com/forms/d/e/1FAIpQLSc0ZARd1rnVb7uBE_j6XfQvP5jtF26HcnWYTt1B3pKBZeEkzw/viewform) online. Incident reports may be submitted anonymously. 
 
