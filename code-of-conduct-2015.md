@@ -1,4 +1,4 @@
-# Generic Code of Conduct
+# NICAR 2015 Conversation Track Code of Conduct
 
 NICAR 2015 Conversation participants -- including paid staff, volunteers, speakers, and guests -- pledge to act in a respectful manner at all times during official conversation sessions.
 
