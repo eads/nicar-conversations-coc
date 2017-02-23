@@ -1,10 +1,10 @@
-# NICAR Conversation Track Code of Conduct
+# NICAR Conversations Track Code of Conduct
 
-NICAR Conversation participants -- including paid staff, volunteers, speakers, and guests -- pledge to act in a respectful manner at all times during official conversation sessions.
+NICAR Conversations participants -- including paid staff, volunteers, speakers, and guests -- pledge to act in a respectful manner at all times during official conversation sessions.
 
-NICAR Conversation welcomes a diversity of perspectives about digital journalism. Participants pledge to display common courtesy and sensitivity towards anyone who comes to conversation sessions.
+NICAR Conversations welcomes a diversity of perspectives about digital journalism. Participants pledge to display common courtesy and sensitivity towards anyone who comes to conversation sessions.
 
-NICAR Conversation is committed to active nonviolence in speech and action. Participants pledge to respectfully and peacefully resolve any disputes or disagreements.
+NICAR Conversations is committed to active nonviolence in speech and action. Participants pledge to respectfully and peacefully resolve any disputes or disagreements.
 
 Participants pledge to refrain from all forms of harassment. Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion and spiritual belief systems, political views, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
@@ -23,4 +23,3 @@ To report a violation of this code, participants should contact:
 * Brittany Mayes (brmayes16@gmail.com)
 
 Participants may also submit an [incident report](https://docs.google.com/forms/d/e/1FAIpQLSc0ZARd1rnVb7uBE_j6XfQvP5jtF26HcnWYTt1B3pKBZeEkzw/viewform) online. Incident reports may be submitted anonymously. 
-
